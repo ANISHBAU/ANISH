@@ -86,7 +86,7 @@ def back():
 
 ahsan="ALE-"
 imt="-M4786=="
-ak="AHSANxJUTTxUZAIR-"
+ak="ANISHxDONAxKING-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -1310,19 +1310,19 @@ def Subscraption():
 		print(logo)
 		print ("")
 		print(" \033[1;32m ANISH-DONA Toll Paid You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : PAY LAGEGA JAANI\n Payment Method\nBinance(10$)\nBCash(150taka)\nesawa(600rs)\nMoru(400rupa)\033[1;37m")
+		print(" \033[1;32m Note : PAY LAGEGA JAANI\n Payment Method\nBinance(10$)\nesewa(150rs)\npaytm(600rs)\nKhalti(150rupa)\033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ak+ahsan+key1)
+		print (" Your Key : "+ak+Anish+key1)
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+9779814552171?text=' + tks)
+		os.system('am start https://wa.me/+9806167776?text=' + tks)
 		Subscraption()        
 Subscraption()
